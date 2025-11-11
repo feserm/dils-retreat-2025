@@ -104,7 +104,7 @@ imageClass: h-3/4 relative translate-y-10
 
 ---
 layout: image-right
-image: /assets/odrl-builder-reproduction.png
+image: https://raw.githubusercontent.com/feserm/dils-retreat-2025/refs/heads/main/assets/odrl-builder-reproduction.png
 ---
 
 # ODRL Builder
@@ -357,7 +357,7 @@ image: /assets/odrl-builder-reproduction.png
 
 ---
 layout: image-right
-image: /assets/phenoapp-datafile.png
+image: https://raw.githubusercontent.com/feserm/dils-retreat-2025/refs/heads/main/assets/phenoapp-datafile.png
 ---
 
 # PhenoApp
