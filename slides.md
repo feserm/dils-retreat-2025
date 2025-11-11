@@ -104,7 +104,7 @@ imageClass: h-3/4 relative translate-y-10
 
 ---
 layout: image-right
-image: assets/odrl-builder-reproduction.png
+image: /assets/odrl-builder-reproduction.png
 ---
 
 # ODRL Builder
@@ -357,7 +357,7 @@ image: assets/odrl-builder-reproduction.png
 
 ---
 layout: image-right
-image: assets/phenoapp-datafile.png
+image: /assets/phenoapp-datafile.png
 ---
 
 # PhenoApp
