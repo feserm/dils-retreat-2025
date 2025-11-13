@@ -717,7 +717,7 @@ flowchart LR
 
 ---
 layout: image-right
-image: /assets/bridge-pca-core50.png
+image: https://raw.githubusercontent.com/feserm/dils-retreat-2025/refs/heads/main/assets/bridge-pca-core50.png
 ---
 
 # BRIDGE Core 50 Dataset
